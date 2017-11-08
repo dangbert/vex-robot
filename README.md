@@ -1,7 +1,7 @@
 # Vex Robot
 [Watch the video demo here](https://youtu.be/7u9qqrYjYcw)
 
-<img src="/photos/overview.gif?raw=true" alt="main view" width="350">
+<img src="/photos/overview.gif?raw=true" alt="robot overview" width="350">
 
 ### PURPOSE:
 To create a robot capable of completing multiple challenges so as to score as many points as possible in the UMBC UROS Spring 2016 competition.
@@ -24,8 +24,10 @@ To create a robot capable of completing multiple challenges so as to score as ma
 * Scored 1st place out of 15+ teams.
 * Also the cheapest robot in the class (~$75 of parts).
 
+<img src="/photos/stairs.gif?raw=true" alt="stair climb" width="250"> <img src="/photos/dump.gif?raw=true" alt="dumping" width="250"> <img src="/photos/obstacle.gif?raw=true" alt="obstacle climb" width="250">
+
 ### PARTS:
-<img src="/photos/parts.jpg?raw=true" alt="main view" width="500">
+<img src="/photos/parts.jpg?raw=true" alt="project parts" width="400">
 
 ### CONTRIBUTORS:
 * Daniel E.
